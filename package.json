@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "koa": "^2.3.0"
+    "koa": "^2.3.0",
+    "local-storage-v8": "^0.1.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
   }
 }
